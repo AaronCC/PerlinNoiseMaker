@@ -1,4 +1,4 @@
 # PerlinNoiseMaker
 
 A personal project from my first year of college.
-Generates 2D perlin noise.o
+Generates 2D perlin noise.
